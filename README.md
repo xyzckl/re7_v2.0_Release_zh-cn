@@ -99,4 +99,4 @@ PlayerMovement编辑器
 
 # 声明：
 该仓库仅汉化  
-访问原版- [re7_v2.0_Release]([https://github.com](https://fearlessrevolution.com/viewtopic.php?t=25064)
+访问原版-([re7_v2.0_Release](https://fearlessrevolution.com/viewtopic.php?t=25064)
